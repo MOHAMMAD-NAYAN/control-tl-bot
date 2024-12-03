@@ -7,7 +7,20 @@
             "Added core functionality for group management"
         ],
         "update": {
-            "delete": "ck.json"
+            "delete": ["ck.json"]
+        }
+    },
+    {
+        "version": "0.0.3",
+        "date": "2024-01-01",
+        "changes": [
+            "Enhanced functionality for bot management",
+            "Added new features"
+        ],
+        "update": {
+            "delete": ["ck.json"],
+            "add": ["n.js"],
+            "modify": []
         }
     }
 ]
