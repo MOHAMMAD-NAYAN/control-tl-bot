@@ -19,7 +19,7 @@
         ],
         "update": {
             "delete": ["ck.json"],
-            "add": ["n.js"],
+            "add": ["cmd/plugins/n.js"],
             "modify": []
         }
     }
