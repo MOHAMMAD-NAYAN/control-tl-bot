@@ -7,7 +7,7 @@
             "Added core functionality for group management"
         ],
         "update": {
-            "add": "ck.json"
+            "delete": "ck.json"
         }
     }
 ]
